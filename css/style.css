@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mag-img {
+    width: 100%;
+}
+.mag-sapo {
+    margin-top: 45px;
+    margin-bottom: 70px;
+}
+.mag-content {
+    font-family: 'NotoSerif', sans-serif;
+}
+.magc-txt {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 30px;
+    padding: 0 15px;
+}
+.magc-img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+strong {
+    font-weight: 700;
+}
+.magc-caption {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    color: #797979;
+    padding: 0 10px;
+}
+.mag-credit {
+    padding: 0 15px;
+    margin-bottom: 100px;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+.mb0 {
+    margin-bottom: 0;
+}
+.mb30 {
+    margin-bottom: 30px;
+}
